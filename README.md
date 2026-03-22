@@ -11,4 +11,4 @@ A workflow to capture and document human decisions in AI-assisted work, ensuring
 
 ## Getting Started
 
-Download the protocol document [here] (Human-Authorship-Logging-Protocol.pdf) to view the full workflow and examples.
+Download the protocol document [here](Human-Authorship-Logging-Protocol.pdf) to view the full workflow and examples.
